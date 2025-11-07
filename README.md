@@ -1,28 +1,44 @@
-<img src="imgs/background.jpg">
+<!-- Background image -->
+<img src="imgs/background.jpg" alt="Background" style="width:100%; height:auto; display:block;">
+
+<!-- Badge Section -->
+<p align="center" style="margin-top:20px;">
+  <!-- Website (Nucleo badge) -->
+  <a href="https://efolley.com/">
+    <img src="https://img.shields.io/badge/EFolley-blue?style=for-the-badge&logo=nucleo&logoColor=white" height=100></a>
+  </a>
+    
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/egor-folley"> 
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="100" alt="LinkedIn badge">
+  </a>
+  
+  <!-- Twitter -->
+  <a href="https://www.twitter.com/egor_folley">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="100" alt="Twitter badge">
+  </a> 
+</p>
+
+<!-- Summary Section -->
+<h1>Helping business people solve problems with AI &amp; tech</h1>
+
+<!-- About Section -->
+<p style="font-size:25px; color:#333; max-width:900px; margin:40px auto; line-height:1.6;">
+  Immigrant tech founder with <strong style="color:#0077B5;">9+ years of experience in building and scaling AI & robotics products for business value</strong>. 
+  Strong <strong style="color:#0077B5;">communication skills with hands-on strategy, sales, and tech development.</strong> <br>
+
+  - <strong style="color:#0077B5;">BSc in Intelligent Robotics &amp; Mechatronics</strong> <br>
+  - <strong style="color:#0077B5;">PhD in AI for smart-nano-bio devices</strong>, dropout <br>
+  - <strong style="color:#0077B5;">Founder of ARTIAL at 24</strong> — building AI-edge software for fully autonomous drone flights <br>
+  - <strong style="color:#0077B5;">EiR</strong> — Guided 7 early-stage founders in storytelling and sales <br>
+  - <strong style="color:#0077B5;">Founder of Stealth AI</strong> — ~$100k in rev in 10 months by building Agentic AI solutions <br>
+
+  Not an active GitHub user, as building custom projects under NDA.
+</p>
+
+<!-- GitHub Stats -->
+<h1 style="font-size:35px; text-align:center;">GitHub Stats</h1>
 
 <p align="center">
-
-  <a href="https://www.linkedin.com/in/egor-folley"> 
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=50></a>
-  <a href="https://www.twitter.com/FolleyEgor">
-  <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=50></a> 
-  <a href="https://www.instagram.com/egor.folley">
-  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=50></a>
-
-</p>
-<h1 style="font-size:45px">Summary</h1>
-
-<p style="font-size:35px"> 
-  Egor Folley is a tech entrepreneur with a strong background in cutting-edge technologies. Starting with a BSc in robotics and progressing to an experienced AI tech lead in R&D robotics and computer vision, Egor has built a solid foundation in the field.
-
-He pursued a Ph.D. in smart-nano-bio devices at the Institute for Bioengineering of Catalonia (IBEC), where he worked as a researcher before deciding to follow his entrepreneurial ambitions and initiate the startup ARTIAL.
-
-Egor thrives on building companies from 0 to 1, turning innovative ideas into successful ventures. His boldness and determination are essential for success in the fast-paced world of tech startups. In addition to his technical expertise, Egor has a proven track record in securing funding, leading diverse teams, and adapting to market changes through strategic pivots. He is also an alumnus of the Techstars network, having completed the Berlin acceleration program in collaboration with AUDI.
-
-Egor's passion for entrepreneurship, combined with his experience and strategic vision, makes him a valuable asset in the startup ecosystem, constantly pushing the boundaries of technology and business. 
-</p>
-
-<h1 style="font-size:45px">Statistics</h1>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=egorfolley&theme=blue-green" alt='GGG'> 
+  <img src="https://github-readme-stats.vercel.app/api?username=egorfolley&theme=blue-green" alt="GitHub Stats">
 </p>
