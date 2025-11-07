@@ -1,5 +1,5 @@
 <!-- Background image -->
-<img src="imgs/background.jpg" alt="Background" style="width:100%; height:auto; display:block;">
+<img src="imgs/GitBack.png" alt="Background" style="width:100%; height:auto; display:block;">
 
 <!-- Badge Section -->
 <p align="center" style="margin-top:20px;">
